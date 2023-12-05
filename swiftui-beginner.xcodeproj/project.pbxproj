@@ -8,17 +8,35 @@
 
 /* Begin PBXBuildFile section */
 		4B896C6F2B1E139000231DA8 /* swiftui_beginnerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B896C6E2B1E139000231DA8 /* swiftui_beginnerApp.swift */; };
-		4B896C712B1E139000231DA8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B896C702B1E139000231DA8 /* ContentView.swift */; };
+		4B896C712B1E139000231DA8 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B896C702B1E139000231DA8 /* TextView.swift */; };
 		4B896C732B1E139100231DA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B896C722B1E139100231DA8 /* Assets.xcassets */; };
 		4B896C762B1E139100231DA8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B896C752B1E139100231DA8 /* Preview Assets.xcassets */; };
+		4B896C7D2B1E157300231DA8 /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B896C7C2B1E157300231DA8 /* ShapeView.swift */; };
+		4B896C7F2B1E193600231DA8 /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B896C7E2B1E193600231DA8 /* ColorView.swift */; };
+		4B896C812B1E1B2200231DA8 /* ColorGradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B896C802B1E1B2200231DA8 /* ColorGradientView.swift */; };
+		4B896C832B1E1BC000231DA8 /* IconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B896C822B1E1BC000231DA8 /* IconView.swift */; };
+		4B896C852B1E1CE200231DA8 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B896C842B1E1CE200231DA8 /* ImageView.swift */; };
+		4BC6C95B2B1EAD6800E8CC5E /* InitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC6C95A2B1EAD6800E8CC5E /* InitView.swift */; };
+		4BC6C95D2B1EAE9100E8CC5E /* ForeachView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC6C95C2B1EAE9100E8CC5E /* ForeachView.swift */; };
+		4BC6C95F2B1EB0A000E8CC5E /* GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC6C95E2B1EB0A000E8CC5E /* GridView.swift */; };
+		4BC6C9612B1EB3E900E8CC5E /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC6C9602B1EB3E900E8CC5E /* ButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		4B896C6B2B1E139000231DA8 /* swiftui-beginner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swiftui-beginner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B896C6E2B1E139000231DA8 /* swiftui_beginnerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_beginnerApp.swift; sourceTree = "<group>"; };
-		4B896C702B1E139000231DA8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		4B896C702B1E139000231DA8 /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 		4B896C722B1E139100231DA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B896C752B1E139100231DA8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4B896C7C2B1E157300231DA8 /* ShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
+		4B896C7E2B1E193600231DA8 /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
+		4B896C802B1E1B2200231DA8 /* ColorGradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorGradientView.swift; sourceTree = "<group>"; };
+		4B896C822B1E1BC000231DA8 /* IconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconView.swift; sourceTree = "<group>"; };
+		4B896C842B1E1CE200231DA8 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
+		4BC6C95A2B1EAD6800E8CC5E /* InitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitView.swift; sourceTree = "<group>"; };
+		4BC6C95C2B1EAE9100E8CC5E /* ForeachView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeachView.swift; sourceTree = "<group>"; };
+		4BC6C95E2B1EB0A000E8CC5E /* GridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridView.swift; sourceTree = "<group>"; };
+		4BC6C9602B1EB3E900E8CC5E /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +69,17 @@
 		4B896C6D2B1E139000231DA8 /* swiftui-beginner */ = {
 			isa = PBXGroup;
 			children = (
+				4BC6C9602B1EB3E900E8CC5E /* ButtonView.swift */,
+				4BC6C95E2B1EB0A000E8CC5E /* GridView.swift */,
+				4BC6C95C2B1EAE9100E8CC5E /* ForeachView.swift */,
+				4B896C842B1E1CE200231DA8 /* ImageView.swift */,
+				4BC6C95A2B1EAD6800E8CC5E /* InitView.swift */,
+				4B896C822B1E1BC000231DA8 /* IconView.swift */,
+				4B896C802B1E1B2200231DA8 /* ColorGradientView.swift */,
 				4B896C6E2B1E139000231DA8 /* swiftui_beginnerApp.swift */,
-				4B896C702B1E139000231DA8 /* ContentView.swift */,
+				4B896C702B1E139000231DA8 /* TextView.swift */,
+				4B896C7C2B1E157300231DA8 /* ShapeView.swift */,
+				4B896C7E2B1E193600231DA8 /* ColorView.swift */,
 				4B896C722B1E139100231DA8 /* Assets.xcassets */,
 				4B896C742B1E139100231DA8 /* Preview Content */,
 			);
@@ -137,8 +164,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B896C712B1E139000231DA8 /* ContentView.swift in Sources */,
+				4BC6C95B2B1EAD6800E8CC5E /* InitView.swift in Sources */,
+				4B896C7F2B1E193600231DA8 /* ColorView.swift in Sources */,
+				4B896C832B1E1BC000231DA8 /* IconView.swift in Sources */,
+				4B896C7D2B1E157300231DA8 /* ShapeView.swift in Sources */,
+				4B896C712B1E139000231DA8 /* TextView.swift in Sources */,
+				4B896C812B1E1B2200231DA8 /* ColorGradientView.swift in Sources */,
+				4BC6C9612B1EB3E900E8CC5E /* ButtonView.swift in Sources */,
+				4B896C852B1E1CE200231DA8 /* ImageView.swift in Sources */,
 				4B896C6F2B1E139000231DA8 /* swiftui_beginnerApp.swift in Sources */,
+				4BC6C95F2B1EB0A000E8CC5E /* GridView.swift in Sources */,
+				4BC6C95D2B1EAE9100E8CC5E /* ForeachView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
